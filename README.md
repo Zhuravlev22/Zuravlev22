@@ -3,10 +3,8 @@
 <h3 align="center">Programmer, enthusiast, and self-taught from Russia 🇷🇺</h3>
 
 
-**Zuravlev22/Zuravlev22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on Myself
-- 🌱 I’m currently learning Arduino
-- 📫 How to reach me: Discord: Zuravlev#8119, Telgram is https://t.me/zuravlev22:
-- 👅 My native Language is Russian
+Languages in which I write:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
