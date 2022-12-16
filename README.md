@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Myself
-- 🌱 I’m currently learning PHP and DateBase
-- 💬 Ask me about ...
+- 🌱 I’m currently learning Arduino
 - 📫 How to reach me: Discord: Zuravlev#8119, Telgram is https://t.me/Newid2603:
 - 👅 My native Language is Russian
