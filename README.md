@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Myself
 - 🌱 I’m currently learning Arduino
-- 📫 How to reach me: Discord: Zuravlev#8119, Telgram is https://t.me/Newid2603:
+- 📫 How to reach me: Discord: Zuravlev#8119, Telgram is https://t.me/zuravlev22:
 - 👅 My native Language is Russian
