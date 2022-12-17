@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Egor
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Programmer, enthusiast, and self-taught from Russia</h3>
-
+---
 
 ### Languages in which I write:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) - Backend  
@@ -11,3 +11,5 @@
 
 ### My stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuravlev22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+    dir /
