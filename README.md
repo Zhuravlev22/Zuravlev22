@@ -13,9 +13,6 @@ Skills: C++ / PHP / JS / Python 3
 - 🌱 I’m currently learning Laravel 
 - 📫 How to reach me: [Discord](https://discordapp.com/users/1050773459350847508) or [Telegram](https://t.me/zuravlev22) 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zuravlev22)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuravlev22)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Zuravlev22)  
